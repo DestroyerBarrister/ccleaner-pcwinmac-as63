@@ -1,4 +1,4 @@
-# 
+# VIP CCleaner templates for Mac OS | Custom CCleaner templates for PC Windows. Featuring file extraction and temporary file removal — optimized for maximum performance on every platform.
 
 
 
